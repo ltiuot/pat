@@ -1,0 +1,3029 @@
+
+1. Mycobacterium phage L5 complete genome
+52,297 bp linear DNA 
+NC_001335.1 GI:9625433
+
+2. Enterobacteria phage lambda, complete genome
+48,502 bp linear DNA 
+NC_001416.1 GI:9626243
+
+3. Enterobacteria phage T7, complete genome
+39,937 bp linear DNA 
+NC_001604.1 GI:9627425
+
+4. Enterobacteria phage P4, complete genome
+11,624 bp linear DNA 
+NC_001609.1 GI:9627507
+
+5. Lactococcus phage bIL67, complete genome
+22,195 bp linear DNA 
+NC_001629.1 GI:9627909
+
+6. Haemophilus phage HP1, complete genome
+32,355 bp linear DNA 
+NC_001697.1 GI:9628600
+
+7. Lactococcus phage c2, complete genome
+22,172 bp linear DNA 
+NC_001706.1 GI:9628660
+
+8. Streptococcus phage Cp-1, complete genome
+19,343 bp linear DNA 
+NC_001825.1 GI:9629524
+
+9. Lactococcus phage sk1, complete genome
+28,451 bp linear DNA 
+NC_001835.1 GI:9629653
+
+10. Bacillus phage SPBc2, complete genome
+134,416 bp linear DNA 
+NC_001884.1 GI:9630125
+
+11. Enterobacteria phage P2, complete genome
+33,593 bp linear DNA 
+NC_001895.1 GI:9630327
+
+12. Bacteriophage N15, complete genome
+46,375 bp linear DNA 
+NC_001901.1 GI:9630464
+
+13. Methanobacterium phage psiM2, complete genome
+26,111 bp linear DNA 
+NC_001902.1 GI:9630525
+
+14. Enterobacteria phage 933W, complete genome
+61,670 bp linear DNA 
+NC_000924.1 GI:9632466
+
+15. Streptococcus phage Sfi19, complete genome
+37,370 bp linear DNA 
+NC_000871.1 GI:9632893
+
+16. Streptococcus phage Sfi21, complete genome
+40,739 bp linear DNA 
+NC_000872.1 GI:9632937
+
+17. Lactobacillus prophage phiadh, complete genome
+43,785 bp circular DNA 
+NC_000896.1 GI:9633000
+
+18. Enterobacteria phage VT2-Sakai, complete genome
+60,942 bp linear DNA 
+NC_000902.1 GI:9633396
+
+19. Enterobacteria phage Mu, complete genome
+36,717 bp linear DNA 
+NC_000929.1 GI:9633494
+
+20. Acyrthosiphon pisum bacteriophage APSE-1, complete genome
+36,524 bp circular DNA 
+NC_000935.1 GI:9633550
+
+21. Yersinia phage phiYeO3-12, complete genome
+39,600 bp linear DNA 
+NC_001271.1 GI:9633990
+
+22. Bacteriophage HK022, complete genome
+40,751 bp linear DNA 
+NC_002166.1 GI:9634119
+
+23. Enterobacteria phage HK97, complete genome
+39,732 bp linear DNA 
+NC_002167.1 GI:9634155
+
+24. Streptococcus phage 7201, complete genome
+35,466 bp linear DNA 
+NC_002185.1 GI:9634626
+
+25. Streptococcus thermophilus bacteriophage Sfi11, complete genome
+39,807 bp linear DNA 
+NC_002214.1 GI:9634983
+
+26. Staphylococcus phage PVL proviral DNA, complete sequence
+41,401 bp linear DNA 
+NC_002321.1 GI:9635165
+
+27. Staphylococcus prophage phiPV83, complete genome
+45,636 bp linear DNA 
+NC_002486.1 GI:9635677
+
+28. Mycoplasma phage P1, complete genome
+11,660 bp linear DNA 
+NC_002515.1 GI:9910036
+
+29. Roseophage SIO1 complete genome
+39,898 bp linear DNA 
+NC_002519.1 GI:9964607
+
+30. Bacillus phage GA-1, complete genome
+21,129 bp linear DNA 
+NC_002649.1 GI:12248100
+
+31. Mycobacterium phage Bxb1, complete genome
+50,550 bp linear DNA 
+NC_002656.1 GI:12657854
+
+32. Lactococcus prophage bIL311, complete genome
+14,510 bp linear DNA 
+NC_002670.1 GI:13095658
+
+33. Lactococcus prophage bIL285, complete genome
+35,538 bp linear DNA 
+NC_002666.1 GI:13095680
+
+34. Lactococcus prophage bIL286, complete genome
+41,834 bp linear DNA 
+NC_002667.1 GI:13095743
+
+35. Lactococcus prophage bIL309, complete genome
+36,949 bp linear DNA 
+NC_002668.1 GI:13095805
+
+36. Lactococcus prophage bIL310, complete genome
+14,957 bp linear DNA 
+NC_002669.1 GI:13095862
+
+37. Lactococcus prophage bIL312, complete genome
+15,179 bp linear DNA 
+NC_002671.1 GI:13095891
+
+38. Lactococcus phage Tuc2009, complete genome
+38,347 bp circular DNA 
+NC_002703.1 GI:13487801
+
+39. Enterobacteria phage HK620, complete genome
+38,297 bp circular DNA 
+NC_002730.1 GI:13559823
+
+40. Lactococcus phage TP901-1, complete genome
+37,667 bp linear DNA 
+NC_002747.1 GI:13786531
+
+41. Lactococcus phage BK5-T, complete genome
+40,003 bp linear DNA 
+NC_002796.1 GI:14251125
+
+42. Myxococcus phage Mx8, complete genome
+49,534 bp circular DNA 
+NC_003085.1 GI:15320570
+
+43. Listeria phage A118, complete genome
+40,834 bp linear DNA 
+NC_003216.1 GI:16798783
+
+44. Pseudomonas phage phiCTX, complete genome
+35,580 bp circular DNA 
+NC_003278.1 GI:17313217
+
+45. Staphylococcus phage phiETA, complete genome
+43,081 bp circular DNA 
+NC_003288.1 GI:17426228
+
+46. Enterobacteria phage T3, complete genome
+38,208 bp linear DNA 
+NC_003298.1 GI:17570786
+
+47. Vibrio phage K139, complete genome
+33,106 bp linear DNA 
+NC_003313.1 GI:17975105
+
+48. Burkholderia phage phiE125, complete genome
+53,373 bp linear DNA 
+NC_003309.1 GI:17975161
+
+49. Haemophilus phage HP2, complete genome
+31,508 bp linear DNA 
+NC_003315.1 GI:17981815
+
+50. Enterobacteria phage phiP27, complete genome
+42,575 bp linear DNA 
+NC_003356.1 GI:18249864
+
+51. Mycobacterium phage TM4, complete genome
+52,797 bp linear DNA 
+NC_003387.1 GI:18496886
+
+52. Enterobacteria phage SfV, complete genome
+37,074 bp linear DNA 
+NC_003444.1 GI:19548987
+
+53. Stx2 converting phage I, complete genome
+61,765 bp circular DNA 
+Record removed. This record was removed by RefSeq staff. Please contact info@ncbi.nlm.nih.gov for further details.
+NC_003525.1 GI:20065797
+
+54. Clostridium phage phi3626, complete genome
+33,507 bp linear DNA 
+NC_003524.1 GI:20065963
+
+55. Lactococcus phage ul36, complete genome
+36,798 bp linear DNA 
+NC_004066.1 GI:21716072
+
+56. Natrialba phage PhiCh1, complete genome
+58,498 bp circular DNA 
+NC_004084.1 GI:22091104
+
+57. Lactobacillus phage A2, complete genome
+43,411 bp linear DNA 
+NC_004112.1 GI:22296522
+
+58. Bacteriophage phi-105 DNA, complete sequence
+39,325 bp circular DNA 
+NC_004167.1 GI:22854993
+
+59. Bacillus phage B103, complete genome
+18,630 bp linear DNA 
+NC_004165.1 GI:22855148
+
+60. Lactococcus phage r1t, complete genome
+33,350 bp linear DNA 
+NC_004302.1 GI:23455719
+
+61. Lactobacillus phage phig1e, complete genome
+42,259 bp circular DNA 
+NC_004305.1 GI:23455771
+
+62. Streptococcus phage O1205, complete genome
+43,075 bp linear DNA 
+NC_004303.1 GI:23455848
+
+63. Enterobacteria phage ST64T, complete genome
+40,679 bp linear DNA 
+NC_004348.1 GI:24371534
+
+64. Streptococcus pneumoniae bacteriophage MM1 complete genome
+40,248 bp linear DNA 
+NC_003050.2 GI:26553442
+
+65. Vibrio phage VpV262, complete genome
+46,012 bp circular DNA 
+NC_003907.2 GI:27151468
+
+66. Vibrio phage VHML, complete genome
+43,198 bp linear DNA 
+NC_004456.1 GI:27311175
+
+67. Staphylococcus phage 11, complete genome
+43,604 bp linear DNA 
+NC_004615.1 GI:29028563
+
+68. Staphylococcus prophage phi 12, complete genome
+44,970 bp linear DNA 
+NC_004616.1 GI:29028617
+
+69. Staphylococcus prophage phi 13, complete genome
+42,722 bp linear DNA 
+NC_004617.1 GI:29028667
+
+70. Pseudomonas phage phiKZ, complete genome
+280,334 bp linear DNA 
+NC_004629.1 GI:29134936
+
+71. Streptococcus phage DT1, complete genome
+34,815 bp linear DNA 
+NC_002072.2 GI:29165635
+
+72. Enterobacteria phage T4, complete genome
+168,903 bp linear DNA 
+NC_000866.4 GI:29366675
+
+73. Pseudomonas phage gh-1, complete genome
+37,359 bp linear DNA 
+NC_004665.1 GI:29366701
+
+74. Staphylococcus phage 44AHJD, complete genome
+16,784 bp linear DNA 
+NC_004678.1 GI:29565721
+
+75. Staphylococcus phage phiP68, complete genome
+18,227 bp linear DNA 
+NC_004679.1 GI:29565743
+
+76. Mycobacterium phage Che8, complete genome
+59,471 bp linear DNA 
+NC_004680.1 GI:29565766
+
+77. Mycobacterium phage Cjw1, complete genome
+75,931 bp linear DNA 
+NC_004681.1 GI:29565879
+
+78. Mycobacterium phage Che9c, complete genome
+57,050 bp linear DNA 
+NC_004683.1 GI:29566108
+
+79. Mycobacterium phage Rosebush, complete genome
+67,480 bp linear DNA 
+NC_004684.1 GI:29566193
+
+80. Mycobacterium phage Corndog, complete genome
+69,777 bp linear DNA 
+NC_004685.1 GI:29566284
+
+81. Mycobacterium phage Bxz1, complete genome
+156,102 bp linear DNA 
+NC_004687.1 GI:29566511
+
+82. Mycobacterium phage Omega, complete genome
+110,865 bp linear DNA 
+NC_004688.1 GI:29566737
+
+83. Mycobacterium phage Barnyard, complete genome
+70,797 bp linear DNA 
+NC_004689.1 GI:29566975
+
+84. Bacteriophage PSA complete genome
+37,618 bp linear DNA 
+NC_003291.2 GI:29789895
+
+85. Rhodothermus phage RM378, complete genome
+129,908 bp linear DNA 
+NC_004735.1 GI:30027774
+
+86. Staphylococcus prophage phiN315, complete genome
+44,082 bp linear DNA 
+NC_004740.1 GI:30043925
+
+87. Yersinia phage L-413C, complete genome
+30,728 bp linear DNA 
+NC_004745.1 GI:30065704
+
+88. Lactococcus phage 4268, complete genome
+36,596 bp linear DNA 
+NC_004746.1 GI:30089861
+
+89. Yersinia pestis phage phiA1122, complete genome
+37,555 bp linear DNA 
+NC_004777.1 GI:30387453
+
+90. Enterobacteria phage BP-4795, complete genome
+57,930 bp linear DNA 
+NC_004813.1 GI:31044225
+
+91. Streptococcus phage C1, complete genome
+16,687 bp linear DNA 
+NC_004814.1 GI:31072008
+
+92. Bacteriophage Aaphi23, complete genome
+43,033 bp linear DNA 
+NC_004827.1 GI:31543997
+
+93. Enterobacteria phage SP6, complete genome
+43,769 bp linear DNA 
+NC_004831.2 GI:31880044
+
+94. Xanthomonas phage Xp10, complete genome
+44,373 bp linear DNA 
+NC_004902.1 GI:32128412
+
+95. Enterobacteria phage RB69, complete genome
+167,560 bp linear DNA 
+NC_004928.1 GI:32453484
+
+96. Streptococcus phage SM1, complete genome
+34,692 bp linear DNA 
+NC_004996.1 GI:32469420
+
+97. Pseudomonas phage phiKMV, complete genome
+42,519 bp linear DNA 
+NC_005045.1 GI:33300811
+
+98. Enterobacteria phage RB49, complete genome
+164,018 bp linear DNA 
+NC_005066.1 GI:33620426
+
+99. Yersinia phage PY54, complete genome
+46,339 bp linear DNA 
+NC_005069.1 GI:33770508
+
+100. Aeromonas phage 44RR2.8t, complete genome
+173,591 bp linear DNA 
+NC_005135.1 GI:37651481
+
+101. Bacteriophage D3112, complete genome
+37,611 bp linear DNA 
+NC_005178.1 GI:38229112
+
+102. Mycobacterium phage PG1, complete genome
+68,999 bp linear DNA 
+NC_005259.1 GI:38638403
+
+103. Aeromonas phage Aeh1, complete genome
+233,234 bp linear DNA 
+NC_005260.1 GI:38639923
+
+104. Enterobacteria phage Felix 01, complete genome
+86,155 bp linear DNA 
+NC_005282.1 GI:38707640
+
+105. Bacteriophage phi1026b, complete genome
+54,865 bp linear DNA 
+NC_005284.1 GI:38707890
+
+106. Streptococcus prophage EJ-1, complete genome
+42,935 bp linear DNA 
+NC_005294.1 GI:39653674
+
+107. Pseudomonas aeruginosa phage PaP3, complete genome
+45,503 bp circular DNA 
+NC_004466.2 GI:40549402
+
+108. Streptomyces phage phiBT1, complete genome
+41,831 bp linear DNA 
+NC_004664.2 GI:40806958
+
+109. Enterobacteria phage Sf6, complete genome
+39,043 bp circular DNA 
+NC_005344.1 GI:41057278
+
+110. Enterobacteria phage PsP3, complete genome
+30,636 bp linear DNA 
+NC_005340.1 GI:41057352
+
+111. Lactobacillus prophage Lj965, complete genome
+40,190 bp linear DNA 
+NC_005355.1 GI:41179217
+
+112. Lactobacillus prophage Lj928, complete genome
+38,384 bp linear DNA 
+NC_005354.1 GI:41179287
+
+113. Bordetella phage BPP-1, complete genome
+42,493 bp linear DNA 
+NC_005357.1 GI:41179361
+
+114. Staphylococcus phage 77, complete genome
+41,708 bp linear DNA 
+NC_005356.1 GI:41189515
+
+115. Bordetella phage BMP-1, complete genome
+42,663 bp linear DNA 
+Record removed. This record was removed by RefSeq staff. Please contact info@ncbi.nlm.nih.gov for further details.
+NC_005808.1 GI:45429963
+
+116. Bordetella phage BIP-1, complete genome
+42,638 bp linear DNA 
+Record removed. This record was removed by RefSeq staff. Please contact info@ncbi.nlm.nih.gov for further details.
+NC_005809.1 GI:45429984
+
+117. Lactococcus phage phiLC3, complete genome
+32,172 bp linear DNA 
+NC_005822.1 GI:45597386
+
+118. Enterobacteria phage T1, complete genome
+48,836 bp linear DNA 
+NC_005833.1 GI:45686283
+
+119. Enterobacteria phage ST104 DNA, complete genome
+41,391 bp linear DNA 
+NC_005841.1 GI:46358648
+
+120. Enterobacteria phage P1, complete genome
+94,800 bp linear DNA 
+NC_005856.1 GI:46401626
+
+121. Enterobacteria phage T5, complete genome
+121,750 bp linear DNA 
+NC_005859.1 GI:46401737
+
+122. Klebsiella phage phiKO2, complete genome
+51,601 bp linear DNA 
+NC_005857.1 GI:46402086
+
+123. Staphylococcus phage phiSLT, complete genome
+42,942 bp linear DNA 
+NC_002661.2 GI:47073736
+
+124. Burkholderia phage Bcep1, complete genome
+48,177 bp linear DNA 
+NC_005263.2 GI:47777280
+
+125. Burkholderia phage Bcep781, complete genome
+48,247 bp linear DNA 
+NC_004333.2 GI:47835019
+
+126. Burkholderia phage Bcep43, complete genome
+48,024 bp linear DNA 
+NC_005342.2 GI:47842848
+
+127. Vibrio phage VP2, complete genome
+39,853 bp linear DNA 
+NC_005879.1 GI:48696638
+
+128. Vibrio phage VP5, complete genome
+39,786 bp circular DNA 
+NC_005891.1 GI:48696682
+
+129. Burkholderia cenocepacia phage BcepMu, complete genome
+36,748 bp linear DNA 
+NC_005882.1 GI:48696910
+
+130. Pseudomonas phage PaP2, complete genome
+43,783 bp linear DNA 
+NC_005884.1 GI:48697070
+
+131. Burkholderia phage BcepC6B, complete genome
+42,415 bp linear DNA 
+NC_005887.1 GI:48697190
+
+132. Lactobacillus phage phiAT3, complete genome
+39,166 bp linear DNA 
+NC_005893.1 GI:48697258
+
+133. Actinoplanes phage phiAsp2, complete genome
+58,638 bp linear DNA 
+NC_005885.1 GI:48697401
+
+134. Salmonella phage P22, complete genome
+41,724 bp linear DNA 
+NC_002371.2 GI:51236723
+
+135. Streptomyces phage VWB, complete genome
+49,220 bp linear DNA 
+NC_005345.2 GI:53869480
+
+136. Pseudomonas phage B3, complete genome
+38,439 bp linear DNA 
+NC_006548.1 GI:56692568
+
+137. Pseudomonas phage F116, complete genome
+65,195 bp linear DNA 
+NC_006552.1 GI:56692908
+
+138. Lactobacillus phage LP65, complete genome
+131,522 bp circular DNA 
+NC_006565.1 GI:56693048
+
+139. Bacillus phage BCJA1c, complete genome
+41,092 bp linear DNA 
+NC_006557.1 GI:56694869
+
+140. Synechococcus phage S-PM2, complete genome
+196,280 bp circular DNA 
+NC_006820.1 GI:58532811
+
+141. Lactobacillus phage phiJL-1, complete genome
+36,674 bp linear DNA 
+NC_006936.1 GI:62327085
+
+142. Phage phiJL001, complete genome
+63,649 bp linear DNA 
+NC_006938.1 GI:62327168
+
+143. Enterobacteria phage ES18, complete genome
+46,900 bp linear DNA 
+NC_006949.1 GI:62362213
+
+144. Listonella phage phiHSIC, complete genome
+37,966 bp linear DNA 
+NC_006953.1 GI:62362363
+
+145. Staphylococcus phage Twort, complete genome
+130,706 bp linear DNA 
+NC_007021.1 GI:66391255
+
+146. Enterobacteria phage RB43, complete genome
+180,500 bp linear DNA 
+NC_007023.1 GI:66391451
+
+147. Streptococcus phage 2972, complete genome
+34,704 bp linear DNA 
+NC_007019.1 GI:66391759
+
+148. Aeromonas phage 31, complete genome
+172,963 bp linear DNA 
+NC_007022.1 GI:66391804
+
+149. Staphylococcus phage X2, complete genome
+43,440 bp linear DNA 
+NC_007065.1 GI:66394670
+
+150. Staphylococcus phage 85, complete genome
+44,283 bp linear DNA 
+NC_007050.1 GI:66394870
+
+151. Staphylococcus phage G1, complete genome
+138,715 bp linear DNA 
+NC_007066.1 GI:66394949
+
+152. Staphylococcus phage 66, complete genome
+18,199 bp linear DNA 
+NC_007046.1 GI:66395187
+
+153. Staphylococcus phage 187, complete genome
+39,620 bp linear DNA 
+NC_007047.1 GI:66395215
+
+154. Staphylococcus phage 69, complete genome
+42,732 bp linear DNA 
+NC_007048.1 GI:66395293
+
+155. Staphylococcus phage 53, complete genome
+43,883 bp linear DNA 
+NC_007049.1 GI:66395370
+
+156. Staphylococcus phage 2638A, complete genome
+41,318 bp linear DNA 
+NC_007051.1 GI:66395450
+
+157. Staphylococcus phage 42e, complete genome
+45,861 bp linear DNA 
+NC_007052.1 GI:66395508
+
+158. Staphylococcus phage 3A, complete genome
+43,095 bp linear DNA 
+NC_007053.1 GI:66395588
+
+159. Staphylococcus phage 47, complete genome
+44,777 bp linear DNA 
+NC_007054.1 GI:66395656
+
+160. Staphylococcus phage 37, complete genome
+43,681 bp linear DNA 
+NC_007055.1 GI:66395729
+
+161. Staphylococcus phage EW, complete genome
+45,286 bp linear DNA 
+NC_007056.1 GI:66395807
+
+162. Staphylococcus phage 96, complete genome
+43,576 bp linear DNA 
+NC_007057.1 GI:66395885
+
+163. Staphylococcus phage 71, complete genome
+43,114 bp linear DNA 
+NC_007059.1 GI:66396040
+
+164. Staphylococcus phage 55, complete genome
+41,902 bp linear DNA 
+NC_007060.1 GI:66396113
+
+165. Staphylococcus phage 29, complete genome
+42,802 bp linear DNA 
+NC_007061.1 GI:66396191
+
+166. Staphylococcus phage 52A, complete genome
+41,690 bp linear DNA 
+NC_007062.1 GI:66396267
+
+167. Staphylococcus phage 88, complete genome
+43,231 bp linear DNA 
+NC_007063.1 GI:66396333
+
+168. Staphylococcus phage 92, complete genome
+42,431 bp linear DNA 
+NC_007064.1 GI:66396406
+
+169. Vibriophage VP4, complete genome
+39,503 bp linear DNA 
+NC_007149.1 GI:68299727
+
+170. Enterobacteria phage JK06, complete genome
+46,072 bp circular DNA 
+NC_007291.1 GI:71834082
+
+171. Burkholderia cenocepacia phage BcepB1A, complete genome
+47,399 bp linear DNA 
+NC_005886.2 GI:72257064
+
+172. Flavobacterium phage 11b, complete genome
+36,012 bp linear DNA 
+NC_006356.2 GI:77020112
+
+173. Bacillus phage Gamma, complete genome
+37,253 bp linear DNA 
+NC_007458.1 GI:77020137
+
+174. Bacillus phage Cherry, complete genome
+36,615 bp linear DNA 
+Record removed. This record was removed by RefSeq staff. Please contact info@ncbi.nlm.nih.gov for further details.
+NC_007457.1 GI:77020191
+
+175. Enterobacteria phage K1F, complete genome
+39,704 bp linear DNA 
+NC_007456.1 GI:77118167
+
+176. Burkholderia phage Bcep176, complete genome
+44,856 bp linear DNA 
+NC_007497.1 GI:77864625
+
+177. Lactobacillus phage Lc-Nu, complete genome
+36,466 bp linear DNA 
+NC_007501.1 GI:77999988
+
+178. Clostridium phage c-st, complete genome
+185,683 bp linear DNA 
+NC_007581.1 GI:80159686
+
+179. Enterobacteria phage RTP, complete genome
+46,219 bp linear DNA 
+NC_007603.1 GI:81343928
+
+180. Pseudomonas phage EL, complete genome
+211,215 bp circular DNA 
+NC_007623.1 GI:82700933
+
+181. Enterobacteria phage K1E, complete genome
+45,251 bp linear DNA 
+NC_007637.1 GI:83571714
+
+182. Xanthomonas oryzae phage OP1 DNA, complete genome
+43,785 bp linear DNA 
+NC_007709.1 GI:84662593
+
+183. Xanthomonas oryzae phage OP2 DNA, complete genome
+46,643 bp linear DNA 
+NC_007710.1 GI:84662653
+
+184. Bacillus phage WBeta, complete genome
+40,867 bp linear DNA 
+NC_007734.1 GI:85701379
+
+185. Bacillus phage Fah, complete genome
+37,974 bp linear DNA 
+NC_007814.1 GI:89152479
+
+186. Pseudomonas phage F10, complete genome
+39,199 bp linear DNA 
+NC_007805.1 GI:89152530
+
+187. Pseudomonas phage 73, complete genome
+42,999 bp linear DNA 
+NC_007806.1 GI:89152531
+
+188. Pseudomonas phage 119X, complete genome
+43,365 bp linear DNA 
+NC_007807.1 GI:89152532
+
+189. Pseudomonas phage M6, complete genome
+59,446 bp linear DNA 
+NC_007809.1 GI:89155211
+
+190. Pseudomonas phage F8, complete genome
+66,015 bp linear DNA 
+NC_007810.1 GI:89158250
+
+191. Lactobacillus phage KC5a, complete genome
+38,239 bp circular DNA 
+NC_007924.1 GI:90592575
+
+192. Clostridium phage phi CD119, complete genome
+53,325 bp linear DNA 
+NC_007917.1 GI:90592637
+
+193. Burkholderia phage BcepNazgul, complete genome
+57,455 bp linear DNA 
+NC_005091.2 GI:91214206
+
+194. Vibrio phage KVP40, complete genome
+244,834 bp linear DNA 
+NC_005083.2 GI:91214232
+
+195. Streptomyces phage mu1/6, complete genome
+38,194 bp linear DNA 
+NC_007967.1 GI:93007408
+
+196. Enterobacteria phage K1-5, complete genome
+44,385 bp linear DNA 
+NC_008152.1 GI:108861984
+
+197. Mannheimia phage phiMHaA1, complete genome
+34,525 bp linear DNA 
+NC_008201.1 GI:109289936
+
+198. Aeromonas phage 25, complete genome
+161,475 bp linear DNA 
+NC_008208.1 GI:109289986
+
+199. Mycobacterium phage 244, complete genome
+74,483 bp linear DNA 
+NC_008194.1 GI:109302753
+
+200. Pasteurella phage F108, complete genome
+30,505 bp linear DNA 
+NC_008193.1 GI:109302896
+
+201. Mycobacterium phage Orion, complete genome
+68,427 bp linear DNA 
+NC_008197.1 GI:109391846
+
+202. Mycobacterium phage Llij, complete genome
+56,852 bp linear DNA 
+NC_008196.1 GI:109392186
+
+203. Mycobacterium phage Cooper, complete genome
+70,654 bp linear DNA 
+NC_008195.1 GI:109392353
+
+204. Mycobacterium phage Che12, complete genome
+52,047 bp linear DNA 
+NC_008203.1 GI:109392453
+
+205. Mycobacterium phage Catera, complete genome
+153,766 bp linear DNA 
+NC_008207.1 GI:109393216
+
+206. Mycobacterium phage Qyrzula, complete genome
+67,188 bp linear DNA 
+NC_008204.1 GI:109521758
+
+207. Mycobacterium phage Pipefish, complete genome
+69,059 bp linear DNA 
+NC_008199.1 GI:109521840
+
+208. Mycobacterium phage PMC, complete genome
+56,692 bp linear DNA 
+NC_008205.1 GI:109522084
+
+209. Mycobacterium phage PLot, complete genome
+64,787 bp linear DNA 
+NC_008200.1 GI:109522567
+
+210. Mycobacterium phage PBI1, complete genome
+64,494 bp linear DNA 
+NC_008198.1 GI:109522776
+
+211. Bacteriophage SPP1 complete nucleotide sequence
+44,010 bp circular DNA 
+NC_004166.2 GI:111146921
+
+212. Lactococcus phage Q54, complete genome
+26,537 bp linear DNA 
+NC_008364.1 GI:115304270
+
+213. Phormidium phage Pf-WMP4, complete genome
+40,938 bp linear DNA 
+NC_008367.1 GI:115304338
+
+214. Lactococcus phage 712, complete genome
+30,510 bp linear DNA 
+NC_008370.1 GI:115315572
+
+215. Lactococcus phage jj50, complete genome
+27,453 bp linear DNA 
+NC_008371.1 GI:115315628
+
+216. Stx2-converting phage 86, complete genome
+60,238 bp circular DNA 
+NC_008464.1 GI:116221992
+
+217. Bacteriophage RB32, complete genome
+165,890 bp linear DNA 
+NC_008515.1 GI:116326222
+
+218. Microcystis phage Ma-LMM01 DNA, complete genome
+162,109 bp circular DNA 
+NC_008562.1 GI:117530171
+
+219. Burkholderia prophage phi52237, complete genome
+37,639 bp linear DNA 
+NC_007145.2 GI:117676329
+
+220. Thermus phage phiYS40, complete genome
+152,372 bp linear DNA 
+NC_008584.1 GI:118197620
+
+221. Staphylococcus phage phinm1, complete genome
+43,128 bp linear DNA 
+NC_008583.1 GI:118430724
+
+222. Staphylococcus phage phiNM3, complete genome
+44,061 bp linear DNA 
+NC_008617.1 GI:118725053
+
+223. Staphylococcus phage phiPVL108, complete genome
+44,857 bp linear DNA 
+NC_008689.1 GI:119443652
+
+224. Yersinia phage Berlin, complete genome
+38,564 bp linear DNA 
+NC_008694.1 GI:119637746
+
+225. Archaeal BJ1 virus complete genome
+42,271 bp linear DNA 
+NC_008695.1 GI:119756985
+
+226. Enterobacteria phage N4, complete genome
+70,153 bp linear DNA 
+NC_008720.1 GI:119952179
+
+227. Pseudomonas phage DMS3, complete genome
+36,415 bp linear DNA 
+NC_008717.1 GI:119953625
+
+228. Staphylococcus phage CNPH82, complete genome
+43,420 bp linear DNA 
+NC_008722.1 GI:119953678
+
+229. Staphylococcus phage PH15, complete genome
+44,041 bp linear DNA 
+NC_008723.1 GI:119967833
+
+230. Staphylococcus phage phiETA2, complete genome
+43,265 bp circular DNA 
+NC_008798.1 GI:122891714
+
+231. Staphylococcus phage phiETA3, complete genome
+43,282 bp circular DNA 
+NC_008799.1 GI:122891784
+
+232. Erwinia amylovora phage Era103, complete genome
+45,445 bp linear DNA 
+NC_009014.1 GI:125999960
+
+233. Vibrio phage VP882, complete genome
+38,197 bp linear DNA 
+NC_009016.1 GI:126010846
+
+234. Burkholderia ambifaria phage BcepF1, complete genome
+72,415 bp linear DNA 
+NC_009015.1 GI:126010934
+
+235. Streptococcus phage phi3396, complete genome
+38,528 bp linear DNA 
+NC_009018.1 GI:126011062
+
+236. Clostridium phage phiC2, complete genome
+56,538 bp linear DNA 
+NC_009231.1 GI:134287335
+
+237. Burkholderia phage phiE12-2, complete genome
+36,690 bp linear DNA 
+NC_009236.1 GI:134288688
+
+238. Burkholderia phage phiE202 chromosome, complete genome
+35,741 bp linear DNA 
+NC_009234.1 GI:134288739
+
+239. Burkholderia phage phiE255 chromosome, complete genome
+37,446 bp linear DNA 
+NC_009237.1 GI:134288788
+
+240. Ralstonia phage phiRSA1, complete genome
+38,760 bp linear DNA 
+NC_009382.1 GI:145708074
+
+241. Burkholderia phage BcepGomr, complete genome
+52,414 bp linear DNA 
+NC_009447.1 GI:146329912
+
+242. Phage cdtI DNA, complete genome
+47,021 bp circular DNA 
+NC_009514.1 GI:148609382
+
+243. Staphylococcus phage 80alpha, complete genome
+43,864 bp linear DNA 
+NC_009526.1 GI:148717842
+
+244. Cyanophage Syn5, complete genome
+46,214 bp linear DNA 
+NC_009531.1 GI:148724443
+
+245. Propionibacterium phage PA6, complete genome
+29,739 bp linear DNA 
+NC_009541.1 GI:148727082
+
+246. Xanthomonas phage Xop411, complete genome
+44,520 bp linear DNA 
+NC_009543.1 GI:148727181
+
+247. Enterobacteria phage TLS, complete genome
+49,902 bp linear DNA 
+NC_009540.1 GI:148734472
+
+248. Burkholderia phage phi644-2, complete genome
+48,674 bp linear DNA 
+NC_009235.2 GI:148747798
+
+249. Phormidium phage Pf-WMP3, complete genome
+43,249 bp linear DNA 
+NC_009551.1 GI:148747799
+
+250. Lactobacillus phage LL-H, complete genome
+34,659 bp circular DNA 
+NC_009554.1 GI:148750834
+
+251. Microbacterium phage Min1, complete genome
+46,365 bp linear DNA 
+NC_009603.1 GI:149882781
+
+252. Burkholderia phage BcepNY3, complete genome
+47,382 bp linear DNA 
+NC_009604.1 GI:149882900
+
+253. Actinomyces phage Av-1, complete genome
+17,171 bp linear DNA 
+NC_009643.1 GI:151266287
+
+254. Escherichia phage phiV10, complete genome
+39,104 bp linear DNA 
+NC_007804.2 GI:155370093
+
+255. Bacillus phage 0305phi8-36, complete genome
+218,948 bp linear DNA 
+NC_009760.1 GI:156563990
+
+256. Thermus phage P23-45, complete genome
+84,201 bp linear DNA 
+NC_009803.1 GI:157265294
+
+257. Thermus phage P74-26, complete genome
+83,319 bp linear DNA 
+NC_009804.1 GI:157265412
+
+258. Corynebacterium phage P1201, complete genome
+70,579 bp linear DNA 
+NC_009816.1 GI:157310906
+
+259. Lactococcus phage KSY1, complete genome
+79,232 bp linear DNA 
+NC_009817.1 GI:157311004
+
+260. Streptococcus phage P9, complete genome
+40,539 bp linear DNA 
+NC_009819.1 GI:157311135
+
+261. Mycobacterium phage Tweety, complete genome
+58,692 bp linear DNA 
+NC_009820.1 GI:157311189
+
+262. Enterobacteria phage Phi1, complete genome
+164,270 bp linear DNA 
+NC_009821.1 GI:157311299
+
+263. Listeria phage A500, complete genome
+38,867 bp linear DNA 
+NC_009810.1 GI:157324960
+
+264. Listeria phage B025, complete genome
+42,653 bp linear DNA 
+NC_009812.1 GI:157325217
+
+265. Listeria phage B054, complete genome
+48,172 bp linear DNA 
+NC_009813.1 GI:157325284
+
+266. Listeria phage P35, complete genome
+35,822 bp linear DNA 
+NC_009814.1 GI:157325365
+
+267. Listeria phage A006, complete genome
+38,124 bp linear DNA 
+NC_009815.1 GI:157325422
+
+268. Staphylococcus phage SAP-2, complete genome
+17,938 bp linear DNA 
+NC_009875.1 GI:157738587
+
+269. Mycobacterium phage U2, complete genome
+51,277 bp linear DNA 
+NC_009877.1 GI:157786393
+
+270. Mycobacterium phage Bethlehem, complete genome
+52,250 bp linear DNA 
+NC_009878.1 GI:157786475
+
+271. Pseudomonas phage MP22, complete genome
+36,409 bp linear DNA 
+NC_009818.1 GI:157834972
+
+272. Enterococcus phage phiEF24C, complete genome
+142,072 bp circular DNA 
+NC_009904.1 GI:158079296
+
+273. Pseudomonas phage LKD16, complete genome
+43,200 bp linear DNA 
+NC_009935.1 GI:158345023
+
+274. Pseudomonas phage LKA1, complete genome
+41,593 bp linear DNA 
+NC_009936.1 GI:158345134
+
+275. Aeromonas phage phiO18P, complete genome
+33,985 bp linear DNA 
+NC_009542.2 GI:158518661
+
+276. Thalassomonas phage BA3, complete genome
+37,313 bp linear DNA 
+NC_009990.1 GI:160700594
+
+277. Enterobacteria phage phiEcoM-GJ1, complete genome
+52,975 bp linear DNA 
+NC_010106.1 GI:161617915
+
+278. Enterobacteria phage JS98, complete genome
+170,523 bp linear DNA 
+NC_010105.1 GI:161622381
+
+279. Pseudomonas phage YuA, complete genome
+58,663 bp circular DNA 
+NC_010116.1 GI:162135082
+
+280. Staphylococcus phage phiMR11, complete genome
+43,011 bp linear DNA 
+NC_010147.1 GI:162290107
+
+281. Synechococcus phage syn9, complete genome
+177,300 bp circular DNA 
+NC_008296.2 GI:162290187
+
+282. Escherichia phage phiEco32, complete genome
+77,554 bp linear DNA 
+NC_010324.1 GI:167583555
+
+283. Pseudomonas phage LUZ24, complete genome
+45,625 bp linear DNA 
+NC_010325.1 GI:167600373
+
+284. Pseudomonas phage LUZ19, complete genome
+43,548 bp linear DNA 
+NC_010326.1 GI:167600442
+
+285. Halomonas phage phiHAP-1, complete genome
+39,245 bp linear DNA 
+NC_010342.1 GI:167832345
+
+286. Streptococcus phage 858, complete genome
+35,543 bp linear DNA 
+NC_010353.1 GI:168229273
+
+287. Azospirillum phage Cd, complete genome
+62,337 bp linear DNA 
+NC_010355.1 GI:168495103
+
+288. Lactococcus phage asccphi28, complete genome
+18,762 bp circular DNA 
+NC_010363.1 GI:168983473
+
+289. Enterobacteria phage Fels-2, complete genome
+33,693 bp linear DNA 
+NC_010463.1 GI:169936017
+
+290. Salmonella phage E1, complete genome
+45,051 bp circular DNA 
+NC_010495.1 GI:170676276
+
+291. Enterobacteria phage Min27, complete genome
+63,395 bp linear DNA 
+NC_010237.1 GI:170783609
+
+292. Lactococcus phage 1706, complete genome
+55,597 bp linear DNA 
+NC_010576.1 GI:182637477
+
+293. Enterobacteria phage EPS7, complete genome
+111,382 bp linear DNA 
+NC_010583.1 GI:182682799
+
+294. Mycobacterium phage BPs, complete genome
+41,901 bp linear DNA 
+Record removed. This record was removed by RefSeq staff. Please contact info@ncbi.nlm.nih.gov for further details.
+NC_010762.1 GI:189043087
+
+295. Mycobacterium phage Adjutor, complete genome
+64,511 bp linear DNA 
+Record removed. This record was removed by RefSeq staff. Please contact info@ncbi.nlm.nih.gov for further details.
+NC_010763.1 GI:189043152
+
+296. Staphylococcus phage phiMR25, complete genome
+44,342 bp linear DNA 
+NC_010808.1 GI:189427122
+
+297. Salmonella phage phiSG-JL2, complete genome
+38,815 bp linear DNA 
+NC_010807.1 GI:189427193
+
+298. Pseudomonas phage 201phi2-1, complete genome
+316,674 bp linear DNA 
+NC_010821.1 GI:189490161
+
+299. Streptococcus phage PH15, complete genome
+39,136 bp linear DNA 
+NC_010945.1 GI:190151415
+
+300. Mycobacterium phage DD5, complete genome
+51,621 bp linear DNA 
+NC_011022.1 GI:192823813
+
+301. Mycobacterium phage Jasper, complete genome
+50,968 bp linear DNA 
+NC_011020.1 GI:192823901
+
+302. Mycobacterium phage KBG, complete genome
+53,572 bp linear DNA 
+NC_011019.1 GI:192823996
+
+303. Mycobacterium phage Lockley, complete genome
+51,478 bp linear DNA 
+NC_011021.1 GI:192824086
+
+304. Mycobacterium phage Pukovnik, complete genome
+52,892 bp linear DNA 
+NC_011023.1 GI:192824177
+
+305. Lactococcus phage bIBB29, complete genome
+29,305 bp linear DNA 
+NC_011046.1 GI:194097521
+
+306. Enterobacteria phage BA14, complete genome
+39,816 bp linear DNA 
+NC_011040.1 GI:194100252
+
+307. Enterobacteria phage EcoDS1, complete genome
+39,252 bp linear DNA 
+NC_011042.1 GI:194100305
+
+308. Enterobacteria phage 13a, complete genome
+38,841 bp linear DNA 
+NC_011045.1 GI:194100359
+
+309. Klebsiella phage K11, complete genome
+41,181 bp linear DNA 
+NC_011043.1 GI:194100415
+
+310. Yersinia phage Yepe2, complete genome
+38,677 bp linear DNA 
+NC_011038.1 GI:194100467
+
+311. Mycobacterium phage Nigel, complete genome
+69,904 bp linear DNA 
+NC_011044.1 GI:194100514
+
+312. Mycobacterium phage Predator, complete genome
+70,110 bp linear DNA 
+NC_011039.1 GI:194100609
+
+313. Bacillus phage phi29, complete genome
+19,282 bp linear DNA 
+NC_011048.1 GI:194186868
+
+314. Mycobacterium phage Boomer, complete genome
+58,037 bp linear DNA 
+NC_011054.1 GI:194302947
+
+315. Mycobacterium phage Kostya, complete genome
+75,811 bp linear DNA 
+NC_011056.1 GI:194303053
+
+316. Mycobacterium phage Phaedrus, complete genome
+68,090 bp linear DNA 
+NC_011057.1 GI:194303197
+
+317. Mycobacterium phage Porky, complete genome
+76,312 bp linear DNA 
+NC_011055.1 GI:194303296
+
+318. Rhizobium phage 16-3, complete genome
+60,195 bp linear DNA 
+NC_011103.1 GI:195546530
+
+319. Pseudomonas phage PT5, complete genome
+42,954 bp linear DNA 
+NC_011105.1 GI:195546641
+
+320. Pseudomonas phage PT2, complete genome
+42,961 bp linear DNA 
+NC_011107.1 GI:195546701
+
+321. Lactobacillus phage Lrm1, complete genome
+39,989 bp linear DNA 
+NC_011104.1 GI:195661200
+
+322. Iodobacteriophage phiPLPE, complete genome
+47,453 bp linear DNA 
+NC_011142.1 GI:197085614
+
+323. Pseudomonas phage LBL3, complete genome
+64,427 bp linear DNA 
+NC_011165.1 GI:197261329
+
+324. Pseudomonas phage LMA2, complete genome
+66,530 bp linear DNA 
+NC_011166.1 GI:197261417
+
+325. Bacillus phage IEBH, complete genome
+53,104 bp circular DNA 
+NC_011167.1 GI:197261511
+
+326. Listeria phage A511, complete genome
+137,619 bp linear DNA 
+NC_009811.2 GI:197322500
+
+327. Ralstonia phage RSB1, complete genome
+43,079 bp linear DNA 
+NC_011201.1 GI:197935853
+
+328. Burkholderia phage KS10, complete genome
+37,635 bp linear DNA 
+NC_011216.1 GI:198449262
+
+329. Bacteroides phage B40-8, complete genome
+44,929 bp linear DNA 
+NC_011222.1 GI:200003956
+
+330. Mycobacterium phage Myrna, complete genome
+164,602 bp linear DNA 
+NC_011273.1 GI:203454602
+
+331. Mycobacterium phage Rizal, complete genome
+153,894 bp circular DNA 
+NC_011272.1 GI:203457352
+
+332. Mycobacterium phage Spud, complete genome
+154,906 bp circular DNA 
+NC_011270.1 GI:203460520
+
+333. Mycobacterium phage Solon, complete genome
+49,487 bp linear DNA 
+NC_011267.1 GI:203463359
+
+334. Mycobacterium phage Cali, complete genome
+155,372 bp circular DNA 
+NC_011271.1 GI:204305660
+
+335. Mycobacterium phage Brujita, complete genome
+47,057 bp linear DNA 
+NC_011291.1 GI:206599544
+
+336. Mycobacterium phage Butterscotch, complete genome
+64,562 bp linear DNA 
+Record removed. This record was removed by RefSeq staff. Please contact info@ncbi.nlm.nih.gov for further details.
+NC_011286.1 GI:206599619
+
+337. Mycobacterium phage Gumball, complete genome
+64,807 bp linear DNA 
+NC_011290.1 GI:206599706
+
+338. Mycobacterium phage Troll4, complete genome
+64,618 bp linear DNA 
+NC_011285.1 GI:206599795
+
+339. Mycobacterium phage Fruitloop, complete genome
+58,471 bp linear DNA 
+NC_011288.1 GI:206599880
+
+340. Mycobacterium phage Konstantine, complete genome
+68,952 bp linear DNA 
+NC_011292.1 GI:206599983
+
+341. Mycobacterium phage Pacc40, complete genome
+58,554 bp linear DNA 
+NC_011287.1 GI:206600079
+
+342. Mycobacterium phage Ramsey, complete genome
+58,578 bp linear DNA 
+NC_011289.1 GI:206600181
+
+343. Mycobacterium phage Chah, complete genome
+68,450 bp linear DNA 
+Record removed. This record was removed by RefSeq staff. Please contact info@ncbi.nlm.nih.gov for further details.
+NC_011284.1 GI:206600290
+
+344. Listeria phage P40, complete genome
+35,638 bp linear DNA 
+NC_011308.1 GI:207270774
+
+345. Clostridium phage 39-O, complete genome
+38,753 bp linear DNA 
+NC_011318.1 GI:208429855
+
+346. Pseudomonas phage PAJU2, complete genome
+46,872 bp linear DNA 
+NC_011373.1 GI:209552419
+
+347. Clostridium phage phiCD27, complete genome
+50,930 bp linear DNA 
+NC_011398.1 GI:209901237
+
+348. Bacillus phage SPO1, complete genome
+132,562 bp linear DNA 
+NC_011421.1 GI:209972829
+
+349. Bacteriophage APSE-2, complete genome
+39,867 bp circular DNA 
+NC_011551.1 GI:212499705
+
+350. Kluyvera phage Kvp1, complete genome
+39,472 bp linear DNA 
+NC_011534.1 GI:212671382
+
+351. Stenotrophomonas phage S1, complete genome
+40,287 bp linear DNA 
+NC_011589.1 GI:213163898
+
+352. Staphylococcus phage phiSauS-IPLA35, complete genome
+45,344 bp linear DNA 
+NC_011612.1 GI:215401108
+
+353. Staphylococcus phage phiSauS-IPLA88, complete genome
+42,526 bp linear DNA 
+NC_011614.1 GI:215401171
+
+354. Pseudomonas phage MP38, complete genome
+36,885 bp linear DNA 
+NC_011611.1 GI:215479924
+
+355. Pseudomonas phage MP29, complete genome
+36,632 bp linear DNA 
+NC_011613.1 GI:215479976
+
+356. Bacillus phage TP21-L, complete genome
+37,456 bp linear DNA 
+NC_011645.1 GI:216905965
+
+357. Pseudomonas phage 14-1, complete genome
+66,235 bp linear DNA 
+NC_011703.1 GI:218148540
+
+358. Pseudomonas phage SN, complete genome
+66,390 bp linear DNA 
+NC_011756.1 GI:218457801
+
+359. Pseudomonas phage PB1, complete genome
+65,764 bp linear DNA 
+NC_011810.1 GI:219523869
+
+360. Lactobacillus phage Lv-1, complete genome
+38,934 bp linear DNA 
+NC_011801.1 GI:219563197
+
+361. Salmonella enterica bacteriophage SE1, complete genome
+41,941 bp linear DNA 
+NC_011802.1 GI:219681191
+
+362. Erwinia phage phiEa21-4, complete genome
+84,576 bp linear DNA 
+NC_011811.1 GI:219681259
+
+363. Salmonella phage epsilon34, complete genome
+43,016 bp linear DNA 
+NC_011976.1 GI:221328618
+
+364. Mycobacterium phage Phlyer, complete genome
+69,378 bp circular DNA 
+NC_012027.1 GI:222435670
+
+365. Pseudomonas phage phikF77, complete genome
+43,152 bp linear DNA 
+NC_012418.1 GI:225626323
+
+366. Enterococcus phage EFAP-1, complete genome
+21,115 bp linear DNA 
+NC_012419.1 GI:225626377
+
+367. Lactobacillus phage Lb338-1, complete genome
+142,111 bp linear DNA 
+NC_012530.1 GI:226377630
+
+368. Enterobacteria phage RB51, complete genome
+168,394 bp linear DNA 
+NC_012635.1 GI:228860932
+
+369. Enterobacteria phage RB14, complete genome
+165,429 bp linear DNA 
+NC_012638.1 GI:228861315
+
+370. Vibrio phage VP93, complete genome
+43,931 bp linear DNA 
+NC_012662.1 GI:229604924
+
+371. Lactococcus phage P087, complete genome
+60,074 bp circular DNA 
+NC_012663.1 GI:229604969
+
+372. Roseophage EE36P1, complete genome
+73,325 bp linear DNA 
+NC_012696.1 GI:237651460
+
+373. Roseophage DSS3P2, complete genome
+74,611 bp linear DNA 
+NC_012697.1 GI:237651540
+
+374. Enterobacteria phage JSE, complete genome
+166,418 bp linear DNA 
+NC_012740.1 GI:238694878
+
+375. Enterobacteria phage JS10, complete genome
+171,451 bp linear DNA 
+NC_012741.1 GI:238695156
+
+376. Xanthomonas phage phiL7, complete genome
+44,080 bp linear DNA 
+NC_012742.1 GI:238695587
+
+377. Enterobacteria phage WV8, complete genome
+88,487 bp linear DNA 
+NC_012749.1 GI:238801731
+
+378. Streptococcus phage 5093, complete genome
+37,184 bp linear DNA 
+NC_012753.1 GI:238801880
+
+379. Streptococcus phage PH10, complete genome
+31,276 bp linear DNA 
+NC_012756.1 GI:238821317
+
+380. Mycobacterium phage Angel, complete genome
+41,441 bp linear DNA 
+NC_012788.1 GI:239590011
+
+381. Streptococcus phage M102, complete genome
+31,147 bp linear DNA 
+NC_012884.1 GI:242345571
+
+382. Cyanophage PSS2, complete genome
+107,530 bp circular DNA 
+NC_013021.1 GI:254729462
+
+383. Burkholderia phage KS9, complete genome
+39,896 bp linear DNA 
+NC_013055.1 GI:255033713
+
+384. Salmonella phage c341, complete genome
+40,975 bp linear DNA 
+NC_013059.1 GI:255252682
+
+385. Synechococcus phage S-RSM4, complete genome
+194,454 bp circular DNA 
+NC_013085.1 GI:255928922
+
+386. Staphylococcus phage P954, complete genome
+40,761 bp linear DNA 
+NC_013195.1 GI:257136356
+
+387. Ralstonia phage RSL1, complete genome
+231,255 bp circular DNA 
+NC_010811.2 GI:269838879
+
+388. Aggregatibacter phage S1249, complete sequence
+43,970 bp linear DNA 
+NC_013597.1 GI:273809542
+
+389. Streptococcus phage ALQ13.2, complete genome
+35,525 bp linear DNA 
+NC_013598.1 GI:273809728
+
+390. Xylella phage Xfas53, complete genome
+36,674 bp circular DNA 
+NC_013599.1 GI:273810419
+
+391. Sodalis phage SO-1, complete genome
+45,169 bp circular DNA 
+NC_013600.1 GI:273810554
+
+392. Escherichia phage D108, complete genome
+37,235 bp linear DNA 
+NC_013594.1 GI:281199644
+
+393. Pseudomonas phage phi-2, complete genome
+43,144 bp linear DNA 
+NC_013638.1 GI:281306659
+
+394. Mycobacterium phage ET08, complete genome
+155,445 bp linear DNA 
+NC_013650.1 GI:281415946
+
+395. Vibrio phage N4, complete genome
+38,497 bp circular DNA 
+NC_013651.1 GI:281416165
+
+396. Enterococcus phage phiFL3A, complete genome
+39,576 bp linear DNA 
+NC_013648.1 GI:281416213
+
+397. Klebsiella phage KP32, complete genome
+41,119 bp linear DNA 
+NC_013647.1 GI:281416278
+
+398. Enterococcus phage phiFL1A, complete genome
+38,764 bp linear DNA 
+NC_013646.1 GI:281416323
+
+399. Streptococcus phage Abc2, complete genome
+34,882 bp linear DNA 
+NC_013645.1 GI:281416385
+
+400. Enterococcus phage phiFL4A, complete genome
+37,856 bp linear DNA 
+NC_013644.1 GI:281416434
+
+401. Enterococcus phage phiFL2A, complete genome
+36,270 bp linear DNA 
+NC_013643.1 GI:281416490
+
+402. Mycobacterium phage Peaches, complete genome
+51,376 bp linear DNA 
+NC_013694.1 GI:282598606
+
+403. Enterococcus phage phiEf11, complete genome
+42,822 bp linear DNA 
+NC_013696.1 GI:282598706
+
+404. Clavibacter phage CMP1, complete genome
+58,652 bp linear DNA 
+NC_013698.1 GI:282598772
+
+405. Pseudomonas phage LIT1, complete genome
+72,544 bp linear DNA 
+NC_013692.1 GI:282598847
+
+406. Delftia phage PhiW-14, complete genome
+157,486 bp linear DNA 
+NC_013697.1 GI:282598938
+
+407. Shigella phage phiSboM-AG3, complete genome
+158,006 bp linear DNA 
+NC_013693.1 GI:282599175
+
+408. Pseudomonas phage LUZ7, complete genome
+74,901 bp linear DNA 
+NC_013691.1 GI:282599392
+
+409. Klebsiella phage KP34, complete genome
+43,809 bp linear DNA 
+NC_013649.2 GI:294661411
+
+410. Klebsiella phage KP15, complete genome
+174,436 bp linear DNA 
+NC_014036.1 GI:294661423
+
+411. Streptomyces phage phiSASD1, complete genome
+37,068 bp linear DNA 
+NC_014229.1 GI:298103485
+
+412. Enterobacteria phage IME08, complete genome
+172,253 bp linear DNA 
+NC_014260.1 GI:299778956
+
+413. Clostridium phage phiCTP1, complete genome
+59,199 bp linear DNA 
+NC_014457.1 GI:304360662
+
+414. Mycobacterium phage Angelica, complete genome
+59,598 bp linear DNA 
+NC_014458.1 GI:304360758
+
+415. Mycobacterium phage LeBron, complete genome
+73,453 bp linear DNA 
+NC_014461.1 GI:304360949
+
+416. Enterobacteria phage RB16, complete genome
+176,788 bp linear DNA 
+NC_014467.1 GI:304373555
+
+417. Staphylococcus phage SAP-26, complete genome
+41,207 bp linear DNA 
+NC_014460.1 GI:304443238
+
+418. Shigella phage SP18, complete genome
+170,605 bp linear DNA 
+NC_014595.1 GI:308814351
+
+419. Aeromonas phage phiAS4, complete genome
+163,875 bp linear DNA 
+NC_014635.1 GI:310722194
+
+420. Aeromonas phage phiAS5, complete genome
+225,268 bp linear DNA 
+NC_014636.1 GI:310722466
+
+421. Acinetobacter phage Ac42, complete genome
+167,716 bp linear DNA 
+NC_014660.1 GI:311992494
+
+422. Acinetobacter phage Acj61, complete genome
+164,093 bp linear DNA 
+NC_014661.1 GI:311992750
+
+423. Enterobacteria phage CC31, complete genome
+165,540 bp linear DNA 
+NC_014662.1 GI:311992992
+
+424. Acinetobacter phage Acj9, complete genome
+169,947 bp linear DNA 
+NC_014663.1 GI:311993272
+
+425. Prochlorococcus phage P-SSM2, complete genome
+252,401 bp linear DNA 
+NC_006883.2 GI:312281379
+
+426. Prochlorococcus phage P-SSM4, complete genome
+178,249 bp linear DNA 
+NC_006884.2 GI:312281391
+
+427. Enterobacteria phage vB_EcoM-VR7, complete genome
+169,285 bp linear DNA 
+NC_014792.1 GI:314121562
+
+428. Mycobacterium phage Wee, complete genome
+59,230 bp linear DNA 
+NC_014901.1 GI:318065792
+
+429. Salmonella phage ST160, complete genome
+40,986 bp linear DNA 
+NC_014900.1 GI:318065901
+
+430. Vibrio phage ICP1, complete genome
+125,956 bp linear DNA 
+NC_015157.1 GI:325170966
+
+431. Vibrio phage ICP2, complete genome
+49,675 bp linear DNA 
+NC_015158.1 GI:325171199
+
+432. Vibrio phage ICP3, complete genome
+39,162 bp linear DNA 
+NC_015159.1 GI:325171272
+
+433. Pseudomonas phage phi15, complete genome
+39,562 bp linear DNA 
+NC_015208.1 GI:326424956
+
+434. Tsukamurella phage TPA2, complete genome
+61,440 bp circular DNA 
+NC_015210.1 GI:326425018
+
+435. Enterobacteria phage 285P, complete genome
+39,270 bp linear DNA 
+NC_015249.1 GI:326536103
+
+436. Acinetobacter phage 133 strain Acj133, complete genome
+159,801 bp linear DNA 
+NC_015250.1 GI:326536151
+
+437. Aeromonas phage 65, complete genome
+235,229 bp linear DNA 
+NC_015251.1 GI:326536409
+
+438. Clostridium phage phiCD6356, complete genome
+37,664 bp linear DNA 
+NC_015262.1 GI:326536847
+
+439. Pseudomonas phage phiIBB-PF7A, complete genome
+40,973 bp linear DNA 
+NC_015264.1 GI:326536907
+
+440. Enterobacteria phage SPC35, complete genome
+118,351 bp linear DNA 
+NC_015269.1 GI:326632894
+
+441. Salmonella phage Vi06 complete sequence
+38,368 bp circular DNA 
+NC_015271.1 GI:326633040
+
+442. Synechococcus phage S-SM2, complete genome
+190,789 bp linear DNA 
+NC_015279.1 GI:326781756
+
+443. Prochlorococcus phage P-HM1, complete genome
+181,044 bp linear DNA 
+NC_015280.1 GI:326782024
+
+444. Synechococcus phage S-ShM2, complete genome
+179,563 bp linear DNA 
+NC_015281.1 GI:326782266
+
+445. Synechococcus phage S-SM1, complete genome
+174,079 bp linear DNA 
+NC_015282.1 GI:326782497
+
+446. Prochlorococcus phage P-RSM4, complete genome
+176,428 bp linear DNA 
+NC_015283.1 GI:326782732
+
+447. Prochlorococcus phage P-HM2, complete genome
+183,806 bp linear DNA 
+NC_015284.1 GI:326782972
+
+448. Synechococcus phage Syn19, complete genome
+175,230 bp linear DNA 
+NC_015286.1 GI:326783443
+
+449. Synechococcus phage S-SSM7, complete genome
+232,878 bp linear DNA 
+NC_015287.1 GI:326783659
+
+450. Synechococcus phage S-SSM5, complete genome
+176,184 bp linear DNA 
+NC_015289.1 GI:326784214
+
+451. Prochlorococcus phage P-SSM7, complete genome
+182,180 bp linear DNA 
+NC_015290.1 GI:326784440
+
+452. Salmonella phage Vi01, complete genome
+157,061 bp circular DNA 
+NC_015296.1 GI:326804500
+
+453. Brochothrix phage NF5, complete genome
+36,953 bp linear DNA 
+NC_015252.1 GI:327197584
+
+454. Brochothrix phage A9, complete genome
+127,065 bp linear DNA 
+NC_015253.1 GI:327197643
+
+455. Lactococcus phage 949, complete genome
+114,768 bp linear DNA 
+NC_015263.1 GI:327197843
+
+456. Burkholderia phage KS5, complete genome
+37,236 bp linear DNA 
+NC_015265.1 GI:327197998
+
+457. Burkholderia phage KL3, complete genome
+40,555 bp linear DNA 
+NC_015266.1 GI:327198045
+
+458. Enterococcus phage EFRM31, complete genome
+16,945 bp circular DNA 
+NC_015270.1 GI:327198098
+
+459. Burkholderia phage KS14, complete genome
+32,317 bp circular DNA 
+NC_015273.1 GI:327198269
+
+460. Streptococcus phage Dp-1, complete genome
+56,506 bp linear DNA 
+NC_015274.1 GI:327198314
+
+461. Erwinia phage phiEa104, complete genome
+84,565 bp linear DNA 
+NC_015292.1 GI:327198387
+
+462. Pseudoalteromonas phage H105/1, complete genome
+30,651 bp linear DNA 
+NC_015293.1 GI:327198506
+
+463. Erwinia phage phiEt88, complete genome
+47,279 bp linear DNA 
+NC_015295.1 GI:327198559
+
+464. Brochothrix phage BL3, complete genome
+41,518 bp linear DNA 
+NC_015254.1 GI:327409390
+
+465. Propionibacterium phage PAS50 endogenous virus, complete genome
+29,017 bp linear DNA 
+NC_015453.1 GI:330858351
+
+466. Propionibacterium phage PAD20 endogenous virus, complete genome
+29,074 bp linear DNA 
+NC_015454.1 GI:330858398
+
+467. Shigella phage Shfl1, complete genome
+50,661 bp circular DNA 
+NC_015456.1 GI:330858444
+
+468. Shigella phage Shfl2, complete genome
+165,919 bp circular DNA 
+NC_015457.1 GI:330858525
+
+469. Synechococcus phage S-CBS2, complete genome
+72,332 bp linear DNA 
+NC_015463.1 GI:331027904
+
+470. Synechococcus phage S-CBS3, complete genome
+33,004 bp linear DNA 
+NC_015465.1 GI:331028007
+
+471. Roseobacter phage RDJL Phi 1, complete genome
+62,668 bp circular DNA 
+NC_015466.1 GI:331028054
+
+472. Campylobacter phage NCTC12673, complete genome
+135,041 bp linear DNA 
+NC_015464.1 GI:332672312
+
+473. Clostridium phage phiCD38-2, complete genome
+41,090 bp linear DNA 
+NC_015568.1 GI:333798107
+
+474. Synechococcus phage S-CRM01, complete genome
+178,563 bp circular DNA 
+NC_015569.1 GI:333798163
+
+475. Enterobacteria phage K30, complete genome
+40,940 bp linear DNA 
+NC_015719.1 GI:338826807
+
+476. Gordonia phage GTE2, complete genome
+45,530 bp linear DNA 
+NC_015720.1 GI:338826857
+
+477. Bdellovibrio phage phi1402, complete genome
+23,931 bp linear DNA 
+NC_015721.1 GI:338826915
+
+478. Mycobacterium phage Faith1, complete genome
+75,960 bp linear DNA 
+NC_015584.1 GI:338827012
+
+479. Pantoea phage LIMEzero, complete genome
+43,032 bp linear DNA 
+NC_015585.1 GI:338827142
+
+480. Thermus phage TMA, complete genome
+151,483 bp linear DNA 
+NC_015937.1 GI:343960381
+
+481. Escherichia phage vB_EcoP_G7C, complete genome
+72,917 bp linear DNA 
+NC_015933.1 GI:345461828
+
+482. Burkholderia phage BcepIL02, complete genome
+62,715 bp linear DNA 
+NC_012743.2 GI:347750411
+
+483. Salmonella phage SFP10, complete genome
+157,950 bp circular DNA 
+NC_016073.1 GI:351518443
+
+484. Escherichia phage HK639, complete genome
+49,576 bp linear DNA 
+NC_016158.1 GI:356870600
+
+485. Escherichia phage HK75, complete genome
+36,661 bp linear DNA 
+NC_016160.1 GI:356870677
+
+486. Pediococcus phage cIP1, complete genome
+38,013 bp linear DNA 
+NC_016161.1 GI:356870736
+
+487. Synechococcus phage S-CBS1, complete genome
+30,332 bp circular DNA 
+NC_016164.1 GI:356870794
+
+488. Rhodobacter phage RcapMu, complete genome
+39,283 bp circular DNA 
+NC_016165.1 GI:356870838
+
+489. Mycobacterium phage Giles, complete genome
+53,746 bp linear DNA 
+NC_009993.2 GI:358356445
+
+490. Yersinia phage phiR1-37, complete genome
+262,391 bp circular DNA 
+NC_016163.1 GI:358356482
+
+491. Gordonia phage GTE7, complete genome
+74,431 bp circular DNA 
+NC_016166.1 GI:358356850
+
+492. Gordonia phage GTE5, complete genome
+65,839 bp circular DNA 
+NC_016434.1 GI:359802265
+
+493. Gordonia phage GRU1, complete genome
+65,766 bp circular DNA 
+NC_016435.1 GI:359802358
+
+494. Salmonella phage PVP-SE1, complete genome
+145,964 bp linear DNA 
+NC_016071.1 GI:363539522
+
+495. Planktothrix phage PaV-LD, complete genome
+95,299 bp linear DNA 
+NC_016564.1 GI:371496125
+
+496. Shigella phage EP23, complete genome
+44,077 bp linear DNA 
+NC_016566.1 GI:371496268
+
+497. Vibrio phage SIO-2, complete genome
+81,184 bp linear DNA 
+NC_016567.1 GI:371496326
+
+498. Campylobacter phage CPX, complete genome
+132,662 bp linear DNA 
+NC_016562.1 GI:371670910
+
+499. Bacillus phage W.Ph., complete genome
+156,897 bp linear DNA 
+NC_016563.1 GI:371671060
+
+500. Staphylococcus phage S24-1, complete genome
+18,168 bp linear DNA 
+NC_016565.1 GI:371671319
+
+501. Helicobacter phage phiHP33, complete genome
+24,645 bp linear DNA 
+NC_016568.1 GI:371671341
+
+502. Pseudomonas phage OBP, complete genome
+284,757 bp circular DNA 
+NC_016571.1 GI:371671369
+
+503. Escherichia phage Cba120, complete genome
+157,304 bp linear DNA 
+NC_016570.1 GI:372199367
+
+504. Nocardia phage NBR1, complete genome
+46,140 bp linear DNA 
+NC_016569.1 GI:372217586
+
+505. Cyanophage 9515-10a, complete genome
+47,055 bp circular DNA 
+NC_016657.1 GI:372217712
+
+506. Cyanophage NATL1A-7, complete genome
+47,741 bp circular DNA 
+NC_016658.1 GI:372217768
+
+507. Cyanophage NATL2A-133, complete genome
+47,536 bp circular DNA 
+NC_016659.1 GI:372217834
+
+508. Rhodococcus phage RGL3, complete genome
+48,072 bp linear DNA 
+NC_016650.1 GI:372449733
+
+509. Rhodococcus phage RRH1, complete genome
+14,270 bp linear DNA 
+NC_016651.1 GI:372449800
+
+510. Rhodococcus phage RER2, complete genome
+46,586 bp linear DNA 
+NC_016653.1 GI:372449904
+
+511. Rhodococcus phage REQ1, complete genome
+51,342 bp linear DNA 
+NC_016655.1 GI:372450032
+
+512. Salmonella phage SS3e, complete genome
+40,793 bp linear DNA 
+NC_006940.2 GI:373231359
+
+513. Salmonella phage SPN1S, complete genome
+38,684 bp circular DNA 
+NC_016761.1 GI:374531191
+
+514. Pseudomonas phage phi297, complete genome
+49,135 bp circular DNA 
+NC_016762.1 GI:374531244
+
+515. Pseudomonas phage Bf7, complete genome
+40,058 bp linear DNA 
+NC_016764.1 GI:374531598
+
+516. Pseudomonas phage vB_PaeS_PMG1, complete genome
+54,024 bp linear DNA 
+NC_016765.1 GI:374531645
+
+517. Synechococcus phage S-CBS4, complete genome
+69,420 bp linear DNA 
+NC_016766.1 GI:374531742
+
+518. Erwinia phage PEp14, complete genome
+60,714 bp linear DNA 
+NC_016767.1 GI:374531848
+
+519. Bacteroides phage B124-14, complete genome
+47,159 bp circular DNA 
+NC_016770.1 GI:374671600
+
+520. Salmonella phage SE2, complete genome
+43,221 bp linear DNA 
+NC_016763.1 GI:375267221
+
+521. Pseudomonas phage vB_Pae-TbilisiM32, complete genome
+42,966 bp linear DNA 
+NC_017865.1 GI:387935429
+
+522. Prochlorococcus phage P-SSP7, complete genome
+45,176 bp linear DNA 
+NC_006882.2 GI:388483859
+
+523. Pseudomonas phage vB_Pae-Kakheti25, complete genome
+42,844 bp linear DNA 
+NC_017864.1 GI:388542659
+
+524. Staphylococcus phage TEM123, complete genome
+43,786 bp linear DNA 
+NC_017968.1 GI:388570316
+
+525. Escherichia phage vB_EcoS_AKFV33, complete genome
+108,853 bp linear DNA 
+NC_017969.1 GI:388570360
+
+526. Mycobacterium phage SWU1, complete genome
+52,474 bp linear DNA 
+NC_017973.1 GI:388570523
+
+527. Clostridium phage PhiS63, complete genome
+33,609 bp linear DNA 
+NC_017978.1 GI:388570630
+
+528. Pseudomonas phage Lu11, complete genome
+280,538 bp linear DNA 
+NC_017972.1 GI:388684650
+
+529. Cronobacter phage CR3, complete genome
+149,273 bp linear DNA 
+NC_017974.1 GI:389059862
+
+530. Halocynthia phage JM-2012, complete genome
+167,292 bp linear DNA 
+NC_017975.1 GI:389060148
+
+531. Bacillus phage PBC1, complete genome
+41,164 bp linear DNA 
+NC_017976.1 GI:389060322
+
+532. Clostridium phage phiCP7R, complete genome
+18,397 bp linear DNA 
+NC_017980.1 GI:389060373
+
+533. Xanthomonas phage vB_XveM_DIBBI, complete genome
+49,981 bp linear DNA 
+NC_017981.1 GI:389060400
+
+534. Salmonella phage SPN9CC, complete genome
+40,128 bp linear DNA 
+NC_017985.1 GI:389060488
+
+535. Bacillus phage BtCS33, complete genome
+41,992 bp linear DNA 
+NC_018085.1 GI:392972710
+
+536. Enterococcus phage BC-611, complete genome
+53,996 bp linear DNA 
+NC_018086.1 GI:392972768
+
+537. Colwellia phage 9A, complete genome
+104,936 bp linear DNA 
+NC_018088.1 GI:392973229
+
+538. Streptococcus phage SMP, complete genome
+36,019 bp linear DNA 
+NC_008721.2 GI:393707861
+
+539. Thermoanaerobacterium phage THSA-485A, complete genome
+41,938 bp circular DNA 
+NC_018264.1 GI:397912605
+
+540. Streptococcus phage YMC-2011, complete genome
+40,758 bp circular DNA 
+NC_018285.1 GI:399498678
+
+541. Salmonella phage vB_SemP_Emek, complete genome
+39,783 bp linear DNA 
+NC_018275.1 GI:399498791
+
+542. Weissella phage phiYS61, complete genome
+33,594 bp linear DNA 
+NC_018270.1 GI:399528370
+
+543. Leuconostoc phage Lmd1, complete genome
+26,201 bp linear DNA 
+NC_018273.1 GI:399528538
+
+544. Pseudomonas phage MP42, complete genome
+36,847 bp linear DNA 
+NC_018274.1 GI:399528579
+
+545. Burkholderia phage KL1, complete genome
+42,832 bp linear DNA 
+NC_018278.1 GI:399528702
+
+546. Salmonella phage vB_SosS_Oslo, complete genome
+49,116 bp linear DNA 
+NC_018279.1 GI:399528758
+
+547. Staphylococcus phage vB_SepiS-phiIPLA5, complete genome
+43,581 bp linear DNA 
+NC_018281.1 GI:399528895
+
+548. Pseudomonas phage MP1412, complete genome
+61,167 bp linear DNA 
+NC_018282.1 GI:399528962
+
+549. Burkholderia phage AH2, complete genome
+58,065 bp linear DNA 
+NC_018283.1 GI:399529040
+
+550. Staphylococcus phage vB_SepiS-phiIPLA7, complete genome
+42,123 bp linear DNA 
+NC_018284.1 GI:399529119
+
+551. Burkholderia phage DC1, complete genome
+61,847 bp linear DNA 
+NC_018452.1 GI:401723014
+
+552. Cronobacter phage phiES15, complete genome
+39,974 bp circular DNA 
+NC_018454.1 GI:401817563
+
+553. Pseudomonas phage tf complete genome
+46,271 bp linear DNA 
+NC_017971.2 GI:403225042
+
+554. Propionibacterium phage P9.1, complete genome
+29,214 bp linear DNA 
+NC_018834.1 GI:408905829
+
+555. Streptomyces phage phiHau3, complete genome
+50,255 bp linear DNA 
+NC_018836.1 GI:408905831
+
+556. Pectobacterium phage My1, complete genome
+122,024 bp linear DNA 
+NC_018837.1 GI:408905832
+
+557. Propionibacterium phage P100_A, complete genome
+29,505 bp linear DNA 
+NC_018838.1 GI:408905833
+
+558. Propionibacterium phage P14.4, complete genome
+29,729 bp linear DNA 
+NC_018839.1 GI:408905834
+
+559. Propionibacterium phage P100_1, complete genome
+29,612 bp linear DNA 
+NC_018840.1 GI:408905835
+
+560. Propionibacterium phage P101A, complete genome
+29,574 bp linear DNA 
+NC_018841.1 GI:408905836
+
+561. Propionibacterium phage P1.1, complete genome
+29,348 bp linear DNA 
+NC_018842.1 GI:408905837
+
+562. Salmonella phage SSU5, complete genome
+103,299 bp linear DNA 
+NC_018843.1 GI:408905838
+
+563. Propionibacterium phage P104A, complete genome
+29,371 bp linear DNA 
+NC_018845.1 GI:408905840
+
+564. Propionibacterium phage ATCC29399B_T, complete genome
+29,516 bp linear DNA 
+NC_018847.1 GI:408905842
+
+565. Streptomyces phage SV1, complete genome
+37,612 bp linear DNA 
+NC_018848.1 GI:408905843
+
+566. Propionibacterium phage P105, complete genome
+29,202 bp linear DNA 
+NC_018849.1 GI:408905844
+
+567. Propionibacterium phage ATCC29399B_C, complete genome
+29,516 bp linear DNA 
+NC_018851.1 GI:408905846
+
+568. Propionibacterium phage P100D, complete genome
+29,506 bp linear DNA 
+NC_018852.1 GI:408905847
+
+569. Streptomyces phage TG1, complete genome
+40,474 bp linear DNA 
+NC_018853.1 GI:408905848
+
+570. Escherichia phage ECBP1, complete genome
+69,855 bp circular DNA 
+NC_018854.1 GI:408905849
+
+571. Escherichia phage HX01, complete genome
+169,158 bp circular DNA 
+NC_018855.1 GI:408905850
+
+572. Bacillus phage Bastille, complete genome
+153,962 bp circular DNA 
+NC_018856.1 GI:408905851
+
+573. Bacillus phage BPS13, complete genome
+158,305 bp circular DNA 
+NC_018857.1 GI:408905852
+
+574. Bacillus phage BCP78, complete genome
+156,176 bp circular DNA 
+NC_018860.1 GI:408905855
+
+575. Bacillus phage B4, complete genome
+162,596 bp linear DNA 
+NC_018863.1 GI:408905858
+
+576. Cronobacter phage vB_CsaM_GAP161, complete genome
+178,193 bp linear DNA 
+NC_019398.1 GI:414086086
+
+577. Enterobacteria phage vB_EcoM_ACG-C40, complete genome
+167,396 bp linear DNA 
+NC_019399.1 GI:414086362
+
+578. Cronobacter phage vB_CsaM_GAP31, complete genome
+147,940 bp linear DNA 
+NC_019400.1 GI:414086645
+
+579. Cronobacter phage vB_CsaM_GAP32, complete genome
+358,663 bp linear DNA 
+NC_019401.1 GI:414086915
+
+580. Cronobacter phage vB_CsaP_GAP52, complete genome
+76,631 bp linear DNA 
+NC_019402.1 GI:414087461
+
+581. Enterobacteria phage vB_EcoP_ACG-C91, complete genome
+43,731 bp linear DNA 
+NC_019403.1 GI:414087577
+
+582. Enterobacteria phage vB_EcoS_ACG-M12, complete genome
+46,054 bp linear DNA 
+NC_019404.1 GI:414087634
+
+583. Caulobacter phage phiCbK, complete genome
+215,710 bp linear DNA 
+NC_019405.1 GI:414087713
+
+584. Caulobacter phage CcrColossus, complete genome
+279,967 bp linear DNA 
+NC_019406.1 GI:414088056
+
+585. Caulobacter phage CcrMagneto, complete genome
+218,929 bp linear DNA 
+NC_019407.1 GI:414088509
+
+586. Caulobacter phage CcrRogue, complete genome
+223,720 bp linear DNA 
+NC_019408.1 GI:414088861
+
+587. Caulobacter phage CcrKarma, complete genome
+221,828 bp linear DNA 
+NC_019410.1 GI:414089228
+
+588. Caulobacter phage CcrSwift, complete genome
+219,216 bp linear DNA 
+NC_019411.1 GI:414089586
+
+589. Streptomyces phage R4, complete genome
+51,071 bp linear DNA 
+NC_019414.1 GI:414089985
+
+590. Stenotrophomonas phage IME15, complete genome
+38,513 bp linear DNA 
+NC_019416.1 GI:414090084
+
+591. Salmonella phage SPN19, complete genome
+59,203 bp circular DNA 
+NC_019417.1 GI:414090130
+
+592. Streptococcus phage phiNJ2, complete genome
+37,282 bp circular DNA 
+NC_019418.1 GI:414090203
+
+593. Clostridium phage phiMMP02, complete genome
+48,396 bp circular DNA 
+NC_019421.1 GI:414090365
+
+594. Clostridium phage phiMMP04, complete genome
+31,674 bp circular DNA 
+NC_019422.1 GI:414090442
+
+595. Enterobacter phage IME11, complete genome
+72,570 bp circular DNA 
+NC_019423.1 GI:414090494
+
+596. Pseudomonas phage JG024, complete genome
+66,275 bp linear DNA 
+NC_017674.1 GI:418486896
+
+597. Escherichia phage TL-2011c, complete genome
+60,523 bp linear DNA 
+NC_019442.1 GI:418487051
+
+598. Synechococcus phage metaG-MbCM1, complete genome
+172,879 bp linear DNA 
+NC_019443.1 GI:418487144
+
+599. Synechococcus phage S-MbCM6, complete genome
+176,043 bp linear DNA 
+NC_019444.1 GI:418487384
+
+600. Escherichia phage TL-2011b, complete genome
+44,784 bp linear DNA 
+NC_019445.1 GI:418487627
+
+601. Brucella phage Tb, complete genome
+41,148 bp circular DNA 
+NC_019446.1 GI:418487685
+
+602. Lactobacillus phage c5, complete genome
+31,841 bp linear DNA 
+NC_019449.1 GI:418488152
+
+603. Pseudomonas phage JG004, complete genome
+93,017 bp linear DNA 
+NC_019450.1 GI:418488227
+
+604. Pantoea phage LIMElight, complete genome
+44,546 bp linear DNA 
+NC_019454.1 GI:418488941
+
+605. Haemophilus phage SuMu, complete genome
+37,151 bp linear DNA 
+NC_019455.1 GI:418489035
+
+606. Lactobacillus phage JCL1032, complete genome
+49,433 bp linear DNA 
+NC_019456.1 GI:418489109
+
+607. Vibrio phage CP-T1, complete genome
+44,492 bp linear DNA 
+NC_019457.1 GI:418489187
+
+608. Enterobacter phage EcP1, complete genome
+59,080 bp linear DNA 
+NC_019485.1 GI:418489303
+
+609. Lactobacillus phage LF1, complete genome
+42,606 bp linear DNA 
+NC_019486.1 GI:418489383
+
+610. Bacillus phage SP10, complete genome
+143,986 bp linear DNA 
+NC_019487.1 GI:418489442
+
+611. Salmonella phage RE-2010, complete genome
+34,117 bp linear DNA 
+NC_019488.1 GI:418489681
+
+612. Lactobacillus phage Sha1, complete genome
+41,726 bp linear DNA 
+NC_019489.1 GI:418489788
+
+613. Riemerella phage RAP44, complete genome
+49,329 bp linear DNA 
+NC_019490.1 GI:418489849
+
+614. Clostridium phage phiCP26F, complete genome
+39,188 bp linear DNA 
+NC_019496.1 GI:422933946
+
+615. Enterobacteria phage Bp7, complete genome
+168,066 bp linear DNA 
+NC_019500.1 GI:422934005
+
+616. Enterobacteria phage IME10, complete genome
+39,646 bp linear DNA 
+NC_019501.1 GI:422934269
+
+617. Bacillus phage phIS3501, complete genome
+44,401 bp linear DNA 
+NC_019502.1 GI:422934297
+
+618. Enterobacteria phage ime09, complete genome
+166,499 bp linear DNA 
+NC_019503.1 GI:422934421
+
+619. Erwinia phage vB_EamM-Y2, complete genome
+56,621 bp linear DNA 
+NC_019504.1 GI:422934690
+
+620. Escherichia phage wV7, complete genome
+166,452 bp linear DNA 
+NC_019505.1 GI:422934783
+
+621. Clostridium phage phiCP13O, complete genome
+38,329 bp linear DNA 
+NC_019506.1 GI:422935057
+
+622. Campylobacter phage CP21, complete genome
+182,833 bp linear DNA 
+NC_019507.1 GI:422935113
+
+623. Clostridium phage phiCP34O, complete genome
+38,309 bp linear DNA 
+NC_019508.1 GI:422935424
+
+624. Cronobacter phage ESP2949-1, complete genome
+49,116 bp linear DNA 
+NC_019509.1 GI:422935477
+
+625. Erwinia phage vB_EamP-L1, complete genome
+39,282 bp linear DNA 
+NC_019510.1 GI:422935523
+
+626. Helicobacter phage 1961P, complete genome
+26,836 bp linear DNA 
+NC_019512.1 GI:422935762
+
+627. Staphylococcus phage SMSAP5, complete genome
+45,552 bp linear DNA 
+NC_019513.1 GI:422935796
+
+628. Erwinia phage vB_EamP-S6, complete genome
+74,669 bp linear DNA 
+NC_019514.1 GI:422935839
+
+629. Bacillus phage BCD7, complete genome
+93,839 bp circular DNA 
+NC_019515.1 GI:422935955
+
+630. Enterobacteria phage vB_EcoM-FV3, complete genome
+136,947 bp linear DNA 
+NC_019517.1 GI:422936321
+
+631. Vibrio phage vB_VchM-138, complete genome
+44,485 bp linear DNA 
+NC_019518.1 GI:422936540
+
+632. Escherichia phage phiKT, complete genome
+42,608 bp linear DNA 
+NC_019520.1 GI:422936608
+
+633. Pectobacterium phage ZF40, complete genome
+48,454 bp linear DNA 
+NC_019522.1 GI:422936640
+
+634. Clostridium phage phi24R, complete genome
+18,919 bp linear DNA 
+NC_019523.1 GI:422936709
+
+635. Bdellovibrio phage phi1422, complete genome
+45,354 bp linear DNA 
+NC_019525.1 GI:422936813
+
+636. Enterobacteria phage vB_KleM-RaK2, complete genome
+345,809 bp linear DNA 
+NC_019526.1 GI:422936890
+
+637. Aeromonas phage vB_AsaM-56, complete genome
+43,551 bp linear DNA 
+NC_019527.1 GI:422937484
+
+638. Aeromonas phage phiAS7, complete genome
+41,572 bp linear DNA 
+NC_019528.1 GI:422937568
+
+639. Vibrio phage pVp-1, complete genome
+111,506 bp linear DNA 
+NC_019529.1 GI:422937620
+
+640. Salmonella phage PhiSH19, complete genome
+157,785 bp linear DNA 
+NC_019530.1 GI:422937778
+
+641. Aeromonas phage CC2, complete genome
+231,743 bp linear DNA 
+NC_019538.1 GI:423261416
+
+642. Salmonella phage vB_SenS-Ent1 complete genome
+42,391 bp linear DNA 
+NC_019539.1 GI:423261846
+
+643. Salinivibrio phage CW02, complete genome
+49,390 bp linear DNA 
+NC_019540.1 GI:423261909
+
+644. Acinetobacter phage YMC/09/02/B1251_ABA_BP, complete genome
+45,364 bp linear DNA 
+NC_019541.1 GI:423261980
+
+645. Pectobacterium phage PP1, complete genome
+44,400 bp linear DNA 
+NC_019542.1 GI:423262043
+
+646. Aeromonas phage Aes508, complete genome
+160,646 bp linear DNA 
+NC_019543.1 GI:423262092
+
+647. Salmonella phage SPN3UB, complete genome
+47,355 bp circular DNA 
+NC_019545.1 GI:423262377
+
+648. Liberibacter phage SC1, complete genome
+40,048 bp circular DNA 
+NC_019549.1 GI:423262466
+
+649. Liberibacter phage SC2, complete genome
+38,997 bp circular DNA 
+NC_019550.1 GI:423262507
+
+650. Enterobacteria phage mEpX2, complete genome
+38,759 bp linear DNA 
+NC_019705.1 GI:428765613
+
+651. Enterobacteria phage mEp043 c-1, complete genome
+42,780 bp linear DNA 
+NC_019706.1 GI:428781735
+
+652. Enterobacteria phage mEp235, complete genome
+37,595 bp linear DNA 
+NC_019708.1 GI:428781810
+
+653. Enterobacteria phage mEpX1, complete genome
+41,567 bp linear DNA 
+NC_019709.1 GI:428781872
+
+654. Enterobacteria phage HK140, complete genome
+40,710 bp linear DNA 
+NC_019710.1 GI:428781939
+
+655. Enterobacteria phage HK629, complete genome
+47,288 bp linear DNA 
+NC_019711.1 GI:428782011
+
+656. Vibrio phage vB_VpaS_MAR10, complete genome
+78,751 bp linear DNA 
+NC_019713.1 GI:428782085
+
+657. Enterobacteria phage HK446, complete genome
+39,026 bp linear DNA 
+NC_019714.1 GI:428782193
+
+658. Enterobacterial phage mEp234, complete genome
+39,578 bp linear DNA 
+NC_019715.1 GI:428782254
+
+659. Enterobacteria phage mEp460, complete genome
+44,510 bp linear DNA 
+NC_019716.1 GI:428782316
+
+660. Enterobacteria phage HK225, complete genome
+45,366 bp linear DNA 
+NC_019717.1 GI:428782376
+
+661. Enterobacteria phage vB_EcoS_Rogue1, complete genome
+45,805 bp linear DNA 
+NC_019718.1 GI:428782446
+
+662. Enterobacteria phage HK633, complete genome
+41,528 bp linear DNA 
+NC_019719.1 GI:428782521
+
+663. Enterobacterial phage mEp213, complete genome
+44,120 bp linear DNA 
+NC_019720.1 GI:428782589
+
+664. Enterobacterial phage mEp390, complete genome
+40,029 bp linear DNA 
+NC_019721.1 GI:428782664
+
+665. Vibrio phage vB_VpaM_MAR, complete genome
+41,351 bp linear DNA 
+NC_019722.1 GI:428782724
+
+666. Enterobacteria phage HK630, complete genome
+47,090 bp linear DNA 
+NC_019723.1 GI:428782787
+
+667. Enterobacteria phage HK578, complete genome
+43,741 bp linear DNA 
+NC_019724.1 GI:428782857
+
+668. Escherichia phage ADB-2, complete genome
+50,552 bp circular DNA 
+NC_019725.1 GI:428782918
+
+669. Staphylococcus phage JD007, complete genome
+141,836 bp circular DNA 
+NC_019726.1 GI:428782997
+
+670. Klebsiella phage KP36, complete genome
+49,818 bp linear DNA 
+Record removed. This record was removed by RefSeq staff. Please contact info@ncbi.nlm.nih.gov for further details.
+NC_019781.1 GI:429216174
+
+671. Pseudomonas phage vB_PaeP_p2-10_Or1, complete genome
+44,030 bp linear DNA 
+NC_019813.1 GI:429315958
+
+672. Yersinia phage phiR1-RT complete genome
+168,809 bp linear DNA 
+NC_019909.1 GI:431808936
+
+673. Salmonella phage SKML-39, complete genome
+159,624 bp linear DNA 
+NC_019910.1 GI:431809199
+
+674. Bacillus phage vB_BtS_BMBtp2, complete genome
+36,932 bp linear DNA 
+NC_019912.1 GI:431809464
+
+675. Pseudomonas phage PaP1, complete genome
+91,715 bp linear DNA 
+NC_019913.1 GI:431809518
+
+676. Staphylococcus phage StB27, complete genome
+40,071 bp linear DNA 
+NC_019914.1 GI:431809676
+
+677. Staphylococcus phage StB20, complete genome
+40,917 bp linear DNA 
+NC_019915.1 GI:431809730
+
+678. Lactobacillus phage ATCC8014, complete genome
+38,002 bp linear DNA 
+NC_019916.1 GI:431809796
+
+679. Burkholderia phage BcepMigl, complete genome
+62,952 bp linear DNA 
+NC_019917.1 GI:431809857
+
+680. Pseudomonas phage vB_PaeM_C2-10_Ab1 complete genome
+92,777 bp linear DNA 
+NC_019918.1 GI:431809933
+
+681. Staphylococcus phage phi5967PVL DNA, complete genome
+42,461 bp linear DNA 
+NC_019921.1 GI:431810244
+
+682. Pseudomonas phage AF, complete genome
+42,689 bp linear DNA 
+NC_019923.1 GI:431810292
+
+683. Clostridium phage phi8074-B1, complete genome
+47,595 bp linear DNA 
+NC_019924.1 GI:431810358
+
+684. Erwinia amylovora phage phiEa100 complete genome
+45,554 bp linear DNA 
+NC_019926.1 GI:431810441
+
+685. Cronobacter phage ENT47670, complete genome
+47,611 bp circular DNA 
+NC_019927.1 GI:431810493
+
+686. Helicobacter phage KHP30 DNA, complete genome
+26,215 bp circular DNA 
+NC_019928.1 GI:431810540
+
+687. Erwinia phage phiEaH2, complete genome
+243,050 bp circular DNA 
+NC_019929.1 GI:431810571
+
+688. Helicobacter phage KHP40 DNA, complete genome
+26,449 bp circular DNA 
+NC_019931.1 GI:431810901
+
+689. Erwinia phage ENT90, complete genome
+29,564 bp circular DNA 
+NC_019932.1 GI:431810934
+
+690. Cronobacter phage ENT39118, complete genome
+39,012 bp circular DNA 
+NC_019934.1 GI:431811043
+
+691. Pseudomonas phage KPP12 DNA, complete genome
+64,144 bp circular DNA 
+NC_019935.1 GI:431811082
+
+692. Enterobacteria phage mEp237, complete genome
+44,375 bp linear DNA 
+NC_019704.1 GI:435439265
+
+693. Agrobacterium phage 7-7-1, complete genome
+69,391 bp linear DNA 
+NC_019519.1 GI:435844340
+
+694. Sphingomonas phage PAU, complete genome
+219,372 bp linear DNA 
+NC_019521.1 GI:435844510
+
+695. Serratia phage phiMAM1, complete genome
+157,834 bp circular DNA 
+NC_020083.1 GI:440789269
+
+696. Streptococcus phage TP-J34 complete genome
+45,606 bp linear DNA 
+NC_020197.1 GI:444475874
+
+697. Pseudomonas phage JBD30, complete genome
+36,947 bp linear DNA 
+NC_020198.1 GI:448244584
+
+698. Staphylococcus phage phi7401PVL DNA, complete genome
+47,252 bp linear DNA 
+NC_020199.1 GI:448244641
+
+699. Pseudomonas phage JBD88a, complete genome
+36,429 bp linear DNA 
+NC_020200.1 GI:448244686
+
+700. Pectobacterium phage phiTE, complete genome
+142,349 bp linear DNA 
+NC_020201.1 GI:448244742
+
+701. Pseudomonas phage JBD5, complete genome
+37,740 bp linear DNA 
+NC_020202.1 GI:448244985
+
+702. Pseudomonas phage JBD24, complete genome
+37,095 bp linear DNA 
+NC_020203.1 GI:448245045
+
+703. Klebsiella phage JD001, complete genome
+48,814 bp circular DNA 
+NC_020204.1 GI:448245104
+
+704. Dickeya phage vB_DsoM_LIMEstone1 complete genome
+152,427 bp linear DNA 
+NC_019925.1 GI:448259945
+
+705. Cronobacter sakazakii phage vB_CskP_GAP227, complete genome
+41,796 bp linear DNA 
+NC_020078.1 GI:448260223
+
+706. Escherichia phage phAPEC8, complete genome
+147,737 bp linear DNA 
+NC_020079.1 GI:448260273
+
+707. Klebsiella phage KP27, complete genome
+174,413 bp linear DNA 
+NC_020080.1 GI:448260543
+
+708. Edwardsiella phage MSW-3 DNA, complete genome
+42,746 bp circular DNA 
+NC_020082.1 GI:448261025
+
+709. Salmonella phage S16, complete genome
+160,221 bp linear DNA 
+NC_020416.1 GI:456351087
+
+710. Bacillus phage Eoghan, complete genome
+49,458 bp linear DNA 
+NC_020477.1 GI:460041934
+
+711. Bacillus phage Andromeda, complete genome
+49,259 bp linear DNA 
+NC_020478.1 GI:460042012
+
+712. Bacillus phage Curly, complete genome
+49,425 bp linear DNA 
+NC_020479.1 GI:460042095
+
+713. Bacillus phage Finn, complete genome
+50,161 bp linear DNA 
+NC_020480.1 GI:460042176
+
+714. Pelagibacter phage HTVC010P, complete genome
+34,892 bp linear DNA 
+NC_020481.1 GI:460042257
+
+715. Pelagibacter phage HTVC011P, complete genome
+39,921 bp linear DNA 
+NC_020482.1 GI:460042324
+
+716. Pelagibacter phage HTVC019P, complete genome
+42,084 bp linear DNA 
+NC_020483.1 GI:460042372
+
+717. Pelagibacter phage HTVC008M, complete genome
+147,284 bp linear DNA 
+NC_020484.1 GI:460042436
+
+718. Synechococcus phage S-RIM8 A.HR1, complete genome
+171,211 bp linear DNA 
+NC_020486.1 GI:460042674
+
+719. Vibrio phage VvAW1, complete genome
+38,682 bp circular DNA 
+NC_020488.1 GI:460042888
+
+720. Synechococcus phage S-RIM2 R1_1999, complete genome
+175,430 bp linear DNA 
+NC_020859.1 GI:472341954
+
+721. Enterobacteria phage JL1, complete genome
+43,457 bp linear DNA 
+NC_019419.2 GI:476572429
+
+722. Xanthomonas phage CP1 DNA, complete genome
+43,870 bp circular DNA 
+NC_019933.2 GI:482849224
+
+723. Pseudomonas phage UFV-P2, complete genome
+45,517 bp linear DNA 
+NC_018850.2 GI:496838603
+
+724. Pseudomonas phage PAK_P1, complete genome
+93,198 bp linear DNA 
+NC_015294.2 GI:563448535
+
+725. Salmonella phage SETP3, complete genome
+42,572 bp linear DNA 
+NC_009232.2 GI:564102869
+
+726. Enterobacteria phage SSL2009a, complete genome
+44,899 bp circular DNA 
+NC_012223.2 GI:565323599
+
+727. Pseudomonas phage KPP10, complete genome
+88,322 bp linear DNA 
+NC_015272.2 GI:651749883
+
+728. Staphylococcus phage K, complete genome
+148,317 bp linear DNA 
+NC_005880.2 GI:657184119
+
+729. Bacteriophage phi-C31 complete genome
+41,491 bp linear DNA 
+NC_001978.3 GI:939482335
+
+730. Synechococcus phage P60, complete genome
+46,675 bp linear DNA 
+NC_003390.2 GI:939482337
+
+731. Burkholderia cepacia phage Bcep22, complete genome
+63,882 bp linear DNA 
+NC_005262.3 GI:939482373
+
+732. Mycobacterium phage Halo, complete genome
+42,289 bp linear DNA 
+NC_008202.2 GI:939482383
+
+733. Mycobacteriophage Wildcat, complete genome
+78,296 bp linear DNA 
+NC_008206.2 GI:939482389
+
+734. Corynebacterium phage BFK20
+42,972 bp linear DNA 
+NC_009799.3 GI:939482390
+
+735. Morganella phage MmP1, complete genome
+38,457 bp linear DNA 
+NC_011085.3 GI:939482392
+
+736. Bacteriophage D3, complete genome
+56,426 bp linear DNA 
+NC_002484.2 GI:939482395
+
+737. Methanothermobacter wolfeii prophage psiM100, complete genome; flanked by Methanothermobacter wolfeii MTW1216 (mtw1216) and MTW1215 (mtw1215) genes, complete cds
+31,007 bp linear DNA 
+NC_002628.3 GI:939482423
+
+738. Streptococcus phage phiNIH1.1, complete genome
+43,106 bp linear DNA 
+NC_003157.5 GI:939482424
+
+739. Stx1 converting phage DNA, complete genome
+59,866 bp circular DNA 
+NC_004913.3 GI:939482425
+
+740. Stx2 converting phage II DNA, complete genome
+62,706 bp circular DNA 
+NC_004914.3 GI:939482426
+
+741. Staphylococcus phage tp310-2, complete sequence
+47,785 bp linear DNA 
+NC_009762.3 GI:939489505
+
+742. Vibrio phage kappa proviral DNA, complete genome
+33,507 bp linear DNA 
+NC_010275.2 GI:939535433
+
+743. Acinetobacter phage ZZ1, complete genome
+166,687 bp linear DNA 
+NC_018087.3 GI:939535472
+
+744. Staphylococcus phage StB12, complete genome
+44,714 bp linear DNA 
+NC_020490.2 GI:939535479
+
+745. Yersinia phage phiR201 complete genome
+122,696 bp linear DNA 
+NC_019919.2 GI:1006160387
+
+746. Mycobacterium phage CrimD, complete genome
+59,798 bp linear DNA 
+NC_014459.2 GI:1344462964
+
+747. Mycobacterium virus Bxz2, complete genome
+50,913 bp linear DNA 
+NC_004682.2 GI:1368571441
+
+748. Mycobacteriophage Che9d, complete genome
+56,275 bp linear DNA 
+NC_004686.2 GI:1368571442
+
+749. Mycobacterium phage ScottMcG, complete genome
+154,017 bp linear DNA 
+NC_011269.2 GI:1368571445
+
+750. Enterobacteria phage epsilon15, complete genome
+39,672 bp linear DNA 
+NC_004775.2 GI:1368578800
+
+751. Yersinia phage phi80-18 complete genome
+42,406 bp linear DNA 
+NC_019911.2 GI:1368578820
+
+752. Enterobacter phage Enc34, complete genome
+60,496 bp linear DNA 
+NC_019524.2 GI:1674953780
+
+753. Mycobacterium virus D29, complete genome
+49,127 bp linear DNA 
+NC_001900.2 GI:2064921175
+
+754. Salmonella phage UAB_Phi78, complete genome
+43,984 bp linear DNA 
+NC_020414.2 GI:2067834172
+
+755. Cyanophage S-TIM5, complete genome
+172,474 bp linear DNA 
+NC_019516.2 GI:2275413904
